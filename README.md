@@ -11,7 +11,7 @@
 
 <img align="right" src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="230">
 
-## 👨‍💻 About Me  
+### 👨‍💻 About Me  
 
 I’m a **Backend Engineer transitioning into Data Engineering**, blending backend development with modern data engineering practices to build scalable, reliable, and data-driven systems.
 
@@ -29,7 +29,7 @@ My focus is building end-to-end solutions that combine backend engineering found
 
 ---
 
-## 🚀 What I'm Doing  
+### 🚀 What I'm Doing  
 - 🧠 Strengthening my Data Engineering skills  
 - ⚙️ Building ETL and data pipelines with Spark, Airflow & ClickHouse  
 - 🔧 Creating backend integrations for enterprise systems  
@@ -38,7 +38,7 @@ My focus is building end-to-end solutions that combine backend engineering found
 ---
 
 
-# 🧰 Favorite Tech
+### 🧰 Favorite Tech
 
 > Tools and technologies I enjoy working with:
 
